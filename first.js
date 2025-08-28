@@ -11,3 +11,4 @@ function updateBalance(){
 
 updateBalance();
 
+console.log(balnace);
