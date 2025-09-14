@@ -1,5 +1,5 @@
 const name = "rahul";
-const age = 21;
+const age = 19;
 const balnace = 300;
 
 
@@ -22,6 +22,12 @@ console.log("Bug final commit");
 
 console.log("mai hoon hero tera");
 
+
+function showname(){
+    console.log(name);
+}
+
+showname();
 
 function showAge(){
     console.log(age+val);
