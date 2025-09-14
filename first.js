@@ -14,4 +14,10 @@ updateBalance();
 
 console.log(balnace);
 
+
+console.log("MOney honey");
+
+
+console.log("Bug final commit");
+
 console.log("mai hoon hero tera");
