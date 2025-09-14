@@ -13,3 +13,5 @@ updateBalance();
 
 
 console.log(balnace);
+
+console.log("mai hoon hero tera");
