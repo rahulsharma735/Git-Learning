@@ -12,4 +12,4 @@ function updateBalance(){
 updateBalance();
 
 
-// console.log(balnace);
+console.log(balnace);
