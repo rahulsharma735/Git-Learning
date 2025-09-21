@@ -36,3 +36,7 @@ function showAge(){
 showAge(10);
 
 console.log("Latest Update");
+
+
+//I am fixing some fixing
+console.log("Bug Fixed");
