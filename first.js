@@ -34,3 +34,5 @@ function showAge(){
 }
 
 showAge(10);
+
+console.log("Latest Update");
